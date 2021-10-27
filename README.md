@@ -1,8 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # OpenEars
-sensor to classify sounds. It is based on a Raspberri PI mode 3B(+), a USB microphone
-and a >2Amp Power supply. Communication is done with MQTT.
+OpenEars is sensor to classify sounds using Deep Learning. It is based on a RaspberriPi and a USB microphone (UMIK). The results of the classfication is send over MQTT tot the Sensemakers IoT Platform. You can find (live) data via our Grafana Dashboard: https://grafana.sensemakersams.org.
 
 # History
 SERVAL image (Sound Event Recognition for Vigilance and Localisation) development:
