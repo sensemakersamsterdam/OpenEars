@@ -119,4 +119,4 @@ To train classification model next resources have been used:
 * [YouTube-8M model](https://github.com/google/youtube-8m)
 * [Tensorflow vggish model](https://github.com/tensorflow/models/tree/master/research/audioset)
 
-You can try to train model with more steps/samples to get more accuracy.
+The model has been made Open Source by Sensing Clues and it is available [here](https://github.com/SensingClues/serval)
