@@ -9,6 +9,7 @@ SERVAL image (Sound Event Recognition for Vigilance and Localisation) developmen
 - Sensing Clues: Juli 2018
 - Sensemakers and Sensing Clues: april 2019
 - Migrated to Python 3: april 2019
+- First Sensor installed: juli 2021.
 
 Current image versie: 1.2\
 Initial documentation at:  [here](https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/)
