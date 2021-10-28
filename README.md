@@ -118,5 +118,8 @@ To train classification model next resources have been used:
 * [Google AudioSet](https://research.google.com/audioset/)
 * [YouTube-8M model](https://github.com/google/youtube-8m)
 * [Tensorflow vggish model](https://github.com/tensorflow/models/tree/master/research/audioset)
+* Sounds collected by citizens of Amsterdam as organized by Waag Society.
+
+
 
 The model has been made Open Source by Sensing Clues and it is available [here](https://github.com/SensingClues/serval)
